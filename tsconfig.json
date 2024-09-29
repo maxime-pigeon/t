@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "strict": true,
+    "noUnusedLocals": true,
+    "allowUnreachableCode": false,
+    "noUnusedParameters": true
+  }
+}
